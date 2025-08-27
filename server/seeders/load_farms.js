@@ -25,7 +25,7 @@ export async function LoadFarmsDataBase() {
 
         .on('end', async () => {
             try {
-                const sql = 'INSERT INTO farms (id_farm,farm_name,region,id_crop) VALUES ?';
+                const sql = 'INSERT INTO famrs (id_farm,farm_name,region,id_crop) VALUES ?';
                 const [result] = await pool.query(sql, [farms]);
 
                 console.log(`✅ They were inserted ${result.affectedRows} farms.`);
