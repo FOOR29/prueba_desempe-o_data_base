@@ -1,0 +1,16 @@
+id_crop,crop_type,crop_variety,soil_type,irrigation_system,fertelizer_used,organic,id_production,id_sensor
+1,Banana,Hass,Sandy,Sprinkler,Compost,Yes,1,SENS001
+2,Corn,Valery,Sandy,Sprinkler,Manure,No,2,SENS002
+3,Corn,Criollo,Clay,None,None,No,3,SENS003
+4,Banana,Caturra,Clay,Drip,NPK,Yes,4,SENS004
+5,Coffee,Hass,Loam,Sprinkler,None,Yes,5,SENS005
+6,Coffee,Tuxpeño,Silt,Drip,None,Yes,6,SENS006
+7,Coffee,Criollo,Loam,Drip,Compost,No,7,SENS007
+8,Coffee,Hass,Peaty,Sprinkler,Manure,Yes,8,SENS008
+9,Cocoa,Tuxpeño,Loam,Sprinkler,Manure,No,9,SENS009
+10,Banana,Valery,Clay,None,NPK,No,10,SENS010
+11,Cocoa,Tuxpeño,Loam,None,None,Yes,11,SENS011
+12,Banana,Caturra,Clay,None,NPK,Yes,12,SENS012
+13,Cocoa,Hass,Silt,None,Compost,No,13,SENS013
+14,Corn,Criollo,Peaty,Drip,Compost,No,14,SENS014
+15,Corn,Hass,Silt,Sprinkler,NPK,No,15,SENS015

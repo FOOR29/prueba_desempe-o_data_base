@@ -1,0 +1,16 @@
+id_sensor,sensor_type,sensor_status,id_maintenance
+1,Rainfall,Inactive,1
+2,Temperature,Active,2
+3,Humidity,Active,3
+4,Temperature,Active,4
+5,Temperature,Faulty,5
+6,pH,Inactive,6
+7,pH,Faulty,7
+8,Humidity,Active,8
+9,Humidity,Inactive,9
+10,Temperature,Active,10
+11,Humidity,Inactive,11
+12,Rainfall,Inactive,12
+13,pH,Faulty,13
+14,Temperature,Faulty,14
+15,Rainfall,Inactive,15

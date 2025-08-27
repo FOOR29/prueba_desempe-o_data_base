@@ -1,0 +1,16 @@
+id_farm,farm_name,region,id_crop
+1,Finca 1,Tolima,1
+2,Finca 2,Cundinamarca,2
+3,Finca 3,Tolima,3
+4,Finca 4,Santander,4
+5,Finca 5,Huila,5
+6,Finca 1,Cundinamarca,6
+7,Finca 2,Santander,7
+8,Finca 3,Cundinamarca,8
+9,Finca 4,Huila,9
+10,Finca 5,Cundinamarca,10
+11,Finca 1,Tolima,11
+12,Finca 2,Antioquia,12
+13,Finca 3,Huila,13
+14,Finca 4,Huila,14
+15,Finca 5,Antioquia,15
