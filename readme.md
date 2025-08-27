@@ -20,7 +20,7 @@ It uploads a CSV file, normalizes its data, and inserts it into a MySQL database
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FOOR29/Biblioteca.git
+   git clone https://github.com/FOOR29/prueba_desempe-o_data_base.git
    cd Biblioteca
 
 
